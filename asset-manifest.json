@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iamsanjeebandas/Uploadnow/static/css/main.1317b285.css",
+    "main.js": "/iamsanjeebandas/Uploadnow/static/js/main.35c692a5.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/iamsanjeebandas/Uploadnow/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/iamsanjeebandas/Uploadnow/index.html",
+    "main.1317b285.css.map": "/iamsanjeebandas/Uploadnow/static/css/main.1317b285.css.map",
+    "main.35c692a5.js.map": "/iamsanjeebandas/Uploadnow/static/js/main.35c692a5.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/iamsanjeebandas/Uploadnow/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1317b285.css",
+    "static/js/main.35c692a5.js"
+  ]
+}
